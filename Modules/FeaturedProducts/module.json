@@ -1,0 +1,11 @@
+{
+    "name": "FeaturedProducts",
+    "alias": "featuredproducts",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FeaturedProducts\\Providers\\FeaturedProductsServiceProvider"
+    ],
+    "files": []
+}
